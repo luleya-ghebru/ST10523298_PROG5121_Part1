@@ -2,8 +2,11 @@
 
 ## Student Infromation 
 -Name: Luleya
+
 -Student Number: ST10523298
+
 -Module: PROG5121
+
 ---
 ## Project Information 
 .MainApp — The entry point of the app. It runs the program by collecting user input (name, username, password, phone number), passing it to Login for validation, and then handling registration and login.
